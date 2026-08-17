@@ -44,6 +44,8 @@ The Week 1 wireframes have been converted into a functional Flutter UI prototype
 
 The project was tested using `flutter analyze` successfully.
 
-## Demo
+## Demo Video
 
-A screen-recorded walkthrough demonstrates the navigation and functionality of the Week 2 prototype.
+[▶️ Watch SkillPath Week 2 Demo](Demo.mp4)
+
+The demo covers the Login, Home, Programs, Program Details screens and navigation flow.
